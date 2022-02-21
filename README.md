@@ -66,7 +66,7 @@ To run this project, you just need to simply download it.
 Via command line:
 ```
 $ cd  ../where_you_want_it_to_be_saved
-$ git clone https://github.com/aristeidis-drivas/ML-Classification-Algorithms.git
+$ git clone https://github.com/aristeidis-drivas/Message-Classification-Application.git
 ```
 Or download manually.
 
